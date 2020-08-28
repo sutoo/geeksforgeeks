@@ -1,6 +1,5 @@
 # Standard Algorithms :
 
-Intoduction to Divide and Conquer
 Binary Search
 Randomized Binary Search Algorithm
 Merge Sort
@@ -20,9 +19,10 @@ Karatsuba algorithm for fast multiplication
 Convex Hull (Simple Divide and Conquer Algorithm)
 Quickhull Algorithm for Convex Hull
 Distinct elements in subarray using Mo’s Algorithm
+`
 
 # Binary Search Based :
-  
+
 Median of two sorted arrays
 Median of two sorted arrays of different sizes
 Floor in a Sorted Array
